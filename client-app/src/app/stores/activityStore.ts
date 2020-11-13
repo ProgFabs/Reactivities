@@ -42,7 +42,6 @@ class ActivityStore {
           this.activityRegistry.set(activity.id, activity);
       })
       })
-      console.log(this.activitiesByDate);
     } catch (error) { 
       console.log(error);
     } finally {
