@@ -14,6 +14,7 @@
     "@types/react-router-dom": "^5.1.6",
     "@types/react-widgets": "^4.4.3",
     "@types/revalidate": "^1.1.2",
+    "@types/uuid": "^8.3.0",
     "axios": "^0.21.0",
     "date-fns": "2.0.0",
     "final-form": "4.20.0",
@@ -30,6 +31,7 @@
     "revalidate": "^1.2.0",
     "semantic-ui-react": "^2.0.1",
     "typescript": "^4.0.5",
+    "uuid": "^8.3.1",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
